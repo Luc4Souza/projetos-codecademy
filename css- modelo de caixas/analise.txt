@@ -1,0 +1,22 @@
+Análise
+Nesta lição, abordamos as quatro propriedades do modelo de caixa: altura e largura, preenchimento, bordas e margens. Compreender o box model é um passo importante para aprender tópicos mais avançados de HTML e CSS. Vamos reservar um minuto para revisar o que você aprendeu:
+
+O modelo de caixa compreende um conjunto de propriedades usadas para criar espaço ao redor e entre os elementos HTML.
+A altura e a largura de uma área de conteúdo podem ser definidas em pixels ou porcentagens.
+As bordas circundam a área de conteúdo e o preenchimento de um elemento. A cor, o estilo e a espessura de uma borda podem ser definidos com propriedades CSS.
+Preenchimento é o espaço entre a área de conteúdo e a borda. Pode ser definido em pixels ou por cento.
+Margem é a quantidade de espaçamento fora da borda de um elemento.
+As margens horizontais se somam, então o espaço total entre as bordas dos elementos adjacentes é igual à soma da margem direita de um elemento e a margem esquerda do elemento adjacente.
+As margens verticais colapsam, de modo que o espaço entre os elementos verticalmente adjacentes é igual à margem maior.
+margin: 0 autocentraliza horizontalmente um elemento dentro de sua área de conteúdo pai, se tiver uma largura.
+A overflowpropriedade pode ser definida como display, hideou scroll, e determina como o HTML renderizará o conteúdo que ultrapassa a área de conteúdo de seu pai.
+A visibilitypropriedade pode ocultar ou mostrar elementos.
+Instruções
+Faça alguns ajustes no código no editor de código. Veja se você pode melhorar a aparência da página alterando as seguintes propriedades:
+
+width
+height
+padding
+border
+margin
+overflow
